@@ -1,8 +1,5 @@
-# Hi 👋, I'm Alexis
+## Hi 👋, I'm Alexis
 ### Junior Web Developer at BeCode
-
-**Connect with me:**
-- LinkedIn: [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-petropoulos/)
 
 **Technical Skills:**
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
