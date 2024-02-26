@@ -1,4 +1,4 @@
-## Hi 👋, I'm Alexis
+# Hi 👋, I'm Alexis
 Junior Web Developer at BeCode
 
 ## Technical Skills
