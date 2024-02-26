@@ -1,5 +1,8 @@
 # Hi 👋, I'm Alexis
-Junior Web Developer at BeCode
+
+Currently undergoing training at BeCode as a Junior Web Developer, I try to stand out with my skills in HTML, CSS, Sass, Tailwind, Javascript, and GIT. BeCode's immersive pedagogy, focused on autonomously seeking information and collaboration, enables me to continue evolving and developing my skills proactively.
+
+I am convinced that my diverse background, combined with my ongoing training, makes me an ideal candidate to contribute significantly to your team. Passionate, curious, and determined, I am ready to take on new challenges and add value to any project I participate in. Feel free to contact me through e-mail (in bio) to discuss future collaborations or internship opportunities.
 
 ## Technical Skills
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
