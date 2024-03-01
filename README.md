@@ -11,11 +11,6 @@ I am convinced that my diverse background, combined with my ongoing training, ma
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)](https://www.sql.org/)
-
-## Methodologies
-[![BEM](https://img.shields.io/badge/BEM-%23F44336.svg?style=flat)](http://getbem.com/)
-
-## Preprocessors
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)](https://sass-lang.com/)
 
 ## Design Tools
