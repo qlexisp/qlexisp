@@ -19,6 +19,6 @@ I am convinced that my diverse background, combined with my ongoing training, ma
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 
 ## My Favorite Projects
-[![CountryApp](https://github.com/qlexisp/CountryApp)
-[![Hackers Poulette](https://github.com/qlexisp/Hackers-Poulette)
-[![Collection](https://github.com/qlexisp/collection)
+CountryApp: (https://github.com/qlexisp/CountryApp)
+Hackers Poulette: (https://github.com/qlexisp/Hackers-Poulette)
+Collection: (https://github.com/qlexisp/collection)
