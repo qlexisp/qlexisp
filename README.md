@@ -21,5 +21,8 @@ I am convinced that my diverse background, combined with my ongoing training, ma
 
 ## Featured Projects
 Here are some projects I've been working on:
-[CountryApp](https://github.com/qlexisp/CountryApp) 🚀 (80% complete) - - A project focused on displaying information about different countries. (HTML, Tailwind, Javascript)
-[MovieApp](https://github.com/qlexisp/MovieApp) 🎬 (30% complete) - - A movie application I'm developing using the TMDB API. (HTML, Tailwind, React)
+
+[CountryApp](https://github.com/qlexisp/CountryApp) 🚀 (80% complete)
+<small>A project focused on displaying information about different countries. (HTML, Tailwind, Javascript)</small>
+[MovieApp](https://github.com/qlexisp/MovieApp) 🎬 (30% complete)
+<small>A movie application I'm developing using the TMDB API. (HTML, Tailwind, React)</small>
