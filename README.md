@@ -23,7 +23,11 @@ I am convinced that my diverse background, combined with my ongoing training, ma
 Here are some projects I've been working on:
 
 [CountryApp](https://github.com/qlexisp/CountryApp) 🚀 (80% complete)
-<small>A project focused on displaying information about different countries. (HTML, Tailwind, Javascript)</small>
+A project focused on displaying information about different countries.
+
+_Technologies used: HTML, Tailwind, Javascript_
 
 [MovieApp](https://github.com/qlexisp/MovieApp) 🎬 (30% complete)
-<small>A movie application I'm developing using the TMDB API. (HTML, Tailwind, React)</small>
+A movie application I'm developing using the TMDB API.
+
+_Technologies used: HTML, Tailwind, React_
