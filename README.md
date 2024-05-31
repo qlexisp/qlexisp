@@ -22,12 +22,12 @@ I am convinced that my diverse background, combined with my ongoing training, ma
 ## Featured Projects 🌟
 Here are some projects I've been working on:
 
+[Filmfiy](https://github.com/qlexisp/Filmify) 🎬 (80% complete)
+A movie application I'm developing using the TMDB API.
+
+_Technologies used: HTML, Tailwind, React_
+
 [CountryApp](https://github.com/qlexisp/CountryApp) 🚀 (80% complete)
 A project focused on displaying information about different countries.
 
 _Technologies used: HTML, Tailwind, Javascript_
-
-[MovieApp](https://github.com/qlexisp/MovieApp) 🎬 (80% complete)
-A movie application I'm developing using the TMDB API.
-
-_Technologies used: HTML, Tailwind, React_
