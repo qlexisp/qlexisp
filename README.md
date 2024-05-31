@@ -22,7 +22,7 @@ I am convinced that my diverse background, combined with my ongoing training, ma
 ## Featured Projects 🌟
 Here are some projects I've been working on:
 
-[Filmifiy](https://github.com/qlexisp/Filmify) 🎬 (80% complete)
+[Filmify](https://github.com/qlexisp/Filmify) 🎬 (80% complete)
 A movie application I'm developing using the TMDB API.
 
 _Technologies used: HTML, Tailwind, React_
