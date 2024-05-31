@@ -27,7 +27,7 @@ A project focused on displaying information about different countries.
 
 _Technologies used: HTML, Tailwind, Javascript_
 
-[MovieApp](https://github.com/qlexisp/MovieApp) 🎬 (30% complete)
+[MovieApp](https://github.com/qlexisp/MovieApp) 🎬 (80% complete)
 A movie application I'm developing using the TMDB API.
 
 _Technologies used: HTML, Tailwind, React_
